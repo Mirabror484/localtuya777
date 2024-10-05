@@ -13,7 +13,7 @@ from homeassistant.const import (
     Platform,
 )
 
-DOMAIN = "localtuya"
+DOMAIN = "localtuya777"
 DATA_DISCOVERY = "discovery"
 
 # Order on priority
